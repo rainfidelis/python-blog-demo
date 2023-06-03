@@ -1,1 +1,1 @@
-This blog is built with the Python programming language.
+This blog is built with the Flask framework of the Python programming language.
